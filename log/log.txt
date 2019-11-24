@@ -1,0 +1,2 @@
+2019-11-24 22:23:05,300 - logtest.py[line:77] - WARNING: етЪЧ logger warning message
+22:28:55,831 root INFO Running Urban Planning
